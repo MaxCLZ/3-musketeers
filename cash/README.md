@@ -46,6 +46,7 @@ You will need NodeJS if not do the following section
 ❯cd /path/to/workspace/3-musketeers/cash/bin
 ```
 Here is the list of command you can use
+<ol>
 <li>
 
 ```sh
@@ -91,4 +92,5 @@ Here is the list of command you can use
 #The default currency will now be New Zealand Dollars and it will be converted in Swedish Krona (SEK) and Sterling Pounds(GBP)
 ```
 </li>
+</ol>
 
