@@ -6,11 +6,11 @@
 		"cash": "./bin/index.js"
 	},
 	"dependencies": {
-		"chalk": "^2.4.1",
-		"conf": "^2.1.0",
+		"chalk": "^2.4.2",
+		"conf": "^2.2.0",
 		"got": "^9.4.0",
 		"meow": "^5.0.0",
 		"money": "^0.2.0",
-		"ora": "^3.0.0"
+		"ora": "^3.1.0"
 	}
 }
