@@ -6,7 +6,7 @@
 
 
 
-## 👩‍💻Set-up
+##👩‍💻Set-up
 
 Just do the following instructions to be able to use correctly the library
 
@@ -23,7 +23,7 @@ Fork the project via github
 ```
 </li>	
 <li>
-You need NodeJS if not do the following section
+You will need NodeJS if not do the following section
 
 [Download and Install Node Js](https://nodejs.org/en/download/)
 </li>
@@ -38,7 +38,7 @@ You need NodeJS if not do the following section
 </li>
 </ol>
 
-## 🏃‍♀️Usage
+##🏃‍♀️Usage
 
 
 
