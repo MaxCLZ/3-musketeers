@@ -11,9 +11,8 @@
 Just do the following instructions to be able to use correctly the library
 
 <ol>
-<li>Fork the project via github
-
-![fork](../../fork.png)
+<li>
+Fork the project via github
 </li>
 
 <li>Clone your forked repository project `https://github.com/YOUR_USERNAME/3-musketeers`
