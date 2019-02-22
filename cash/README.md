@@ -98,37 +98,37 @@ Here is the list of command you can use
 ## [💰 Currencies available](#currencies)
 
 Here is the list of the currencies avaiaibles from the [API](https://api.exchangeratesapi.io/latest)
-EUR Euro
-USD	US dollar
-JPY	Japanese yen	
-BGN	Bulgarian lev	
-CZK	Czech koruna	
-DKK	Danish krone	
-GBP	Pound sterling	
-HUF	Hungarian forint	
-PLN	Polish zloty	
-RON	Romanian leu	
-SEK	Swedish krona	
-CHF	Swiss franc
-ISK	Icelandic krona	
-NOK	Norwegian krone	
-HRK	Croatian kuna	
-RUB	Russian rouble	
-TRY	Turkish lira	
-AUD	Australian dollar	
-BRL	Brazilian real	
-CAD	Canadian dollar	
-CNY	Chinese yuan renminbi	
-HKD	Hong Kong dollar	
-IDR	Indonesian rupiah	
-ILS	Israeli shekel	
-INR	Indian rupee
-KRW	South Korean won
-MXN	Mexican peso	
-MYR	Malaysian ringgit	
-NZD	New Zealand dollar	
-PHP	Philippine peso	
-SGD	Singapore dollar	
-THB	Thai baht
-ZAR	South African rand
+EUR Euro<br/>
+USD	US dollar<br/>
+JPY	Japanese yen	<br/>
+BGN	Bulgarian lev	<br/>
+CZK	Czech koruna<br/>	
+DKK	Danish krone	<br/>
+GBP	Pound sterling	<br/>
+HUF	Hungarian forint	<br/>
+PLN	Polish zloty	<br/>
+RON	Romanian leu	<br/>
+SEK	Swedish krona	<br/>
+CHF	Swiss franc<br/>
+ISK	Icelandic krona	<br/>
+NOK	Norwegian krone	<br/>
+HRK	Croatian kuna	<br/>
+RUB	Russian rouble	<br/>
+TRY	Turkish lira	<br/>
+AUD	Australian dollar	<br/>
+BRL	Brazilian real	<br/>
+CAD	Canadian dollar	<br/>
+CNY	Chinese yuan renminbi	<br/>
+HKD	Hong Kong dollar	<br/>
+IDR	Indonesian rupiah	<br/>
+ILS	Israeli shekel	<br/>
+INR	Indian rupee<br/>
+KRW	South Korean won<br/>
+MXN	Mexican peso	<br/>
+MYR	Malaysian ringgit	<br/>
+NZD	New Zealand dollar	<br/>
+PHP	Philippine peso	<br/>
+SGD	Singapore dollar	<br/>
+THB	Thai baht<br/>
+ZAR	South African rand<br/>
 
