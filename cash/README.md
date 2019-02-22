@@ -6,7 +6,7 @@
 
 
 
-<a href="#set-up"> 👩‍💻Set-up </a>
+## [👩‍💻Set-up](#set-up)
 
 Just do the following instructions to be able to use correctly the library
 
@@ -38,7 +38,7 @@ You will need NodeJS if not do the following section
 </li>
 </ol>
 
-<a href="#usage"> 🏃‍♀️Usage</a>
+## [🏃‍♀️Usage](#usage)
 
 
 
