@@ -1,12 +1,12 @@
 # cash
 **Table of Contents**
 
-- [👩‍💻 Set-up](#-set_up)
+- [👩‍💻 Set-up](#set-up)
 - [🏃‍♀️ Usage](#usage)
 
 
 
-## 👩‍💻 Set-up 
+## [👩‍💻Set-up](./set-up)
 
 Just do the following instructions to be able to use correctly the library
 
@@ -18,8 +18,8 @@ Fork the project via github
 <li>Clone your forked repository project `https://github.com/YOUR_USERNAME/3-musketeers`
 
 ```sh
-❯ cd /path/to/workspace
-❯ git clone git@github.com:YOUR_USERNAME/3-musketeers.git
+❯cd /path/to/workspace
+❯git clone git@github.com:YOUR_USERNAME/3-musketeers.git
 ```
 </li>	
 <li>
@@ -30,27 +30,27 @@ You need NodeJS if not do the following section
 <li>
 
 ```sh
-❯ cd /path/to/workspace
-❯ npm install 
+❯cd /path/to/workspace
+❯npm install 
 #it will install all the specified packages
 ```
 
 </li>
 </ol>
 
-## 🏃‍♀️ Usage
+## [🏃‍♀️ Usage](./usage)
 
 
 
 ```sh
-❯ cd /path/to/workspace/3-musketeers/cash/bin
+❯cd /path/to/workspace/3-musketeers/cash/bin
 ```
 Here is the list of command you can use
 <li>
 
 ```sh
 ❯cd /path/to/workspace/3-musketeers/cash/bin
-❯ node index.js
+❯node index.js
 #It will convert 1 USD to Euros (EUR), Sterling Pounds(GBP) and Yens (JPY) by default)
 ```
 </li>
@@ -58,7 +58,7 @@ Here is the list of command you can use
 
 ```sh
 ❯cd /path/to/workspace/3-musketeers/cash/bin
-❯ node index.js <amount> <from> <to> 
+❯node index.js <amount> <from> <to> 
 
 #Example
 ❯node index.js 10 CAD USD
@@ -73,7 +73,7 @@ Here is the list of command you can use
 
 ```sh
 ❯cd /path/to/workspace/3-musketeers/cash/bin
-❯ node index.js -s <currency>
+❯node index.js -s <currency>
 #It will define the current currency to convert
 #Example
 ❯node index.js -s NZD
@@ -84,7 +84,7 @@ Here is the list of command you can use
 
 ```sh
 ❯cd /path/to/workspace/3-musketeers/cash/bin
-❯ node index.js -s <currency> <currency> 
+❯node index.js -s <currency> <currency> 
 #It will set the current currency to convert and set in which currency it will be converted
 #Example
 ❯node index.js -s  NZD SEK GBP
